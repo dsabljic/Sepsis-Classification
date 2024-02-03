@@ -1,6 +1,4 @@
-# Sepsis-Classification
-
-# Sepsis Klasifikacija
+# Klasifikacija sepse
 
 ## Opis
 
