@@ -66,6 +66,7 @@ pip3 install -r all_requirements.txt
 docker pull dsabljic24/sepsis-prediction-app
 docker run -d -p 8000:8000 dsabljic24/sepsis-prediction-app
 ```
+Aplikacija će se pokrenuti na http://localhost:8000/.
 
 ## Prikaz rada aplikacije
 
