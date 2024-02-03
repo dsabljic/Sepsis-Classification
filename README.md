@@ -64,7 +64,7 @@ pip3 install -r all_requirements.txt
 
 ```bash
 docker pull dsabljic24/sepsis-prediction-app
-docker run -d -p 8000:8000 USERNAME/sepsis-prediction-app
+docker run -d -p 8000:8000 dsabljic24/sepsis-prediction-app
 ```
 
 ## Prikaz rada aplikacije
