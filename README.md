@@ -76,4 +76,4 @@ Aplikacija će se pokrenuti na http://localhost:8000/.
 
 // **TODO**
 
-- dodati JS da uneseni podaci ostanu vidljivi nakon prikazivanje rezultata
+- Dodat JS da uneseni podaci ostanu vidljivi nakon prikazivanja rezultata
