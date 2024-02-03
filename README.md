@@ -2,7 +2,7 @@
 
 ## Opis
 
-Projekt implementira rješenje koje predviđa hoće li pacijent razviti sepsu. Korišteni su podaci dostupni na Kaggle platformi, konkretno skup podataka dostupan na [https://www.kaggle.com/datasets/chaunguynnghunh/sepsis](https://www.kaggle.com/datasets/chaunguynnghunh/sepsis), za treniranje modela logističke regresije. Cilj je omogućiti efikasno predviđanje sepsije na temelju dostupnih kliničkih informacija.
+Projekt implementira rješenje koje predviđa hoće li pacijent razviti sepsu. Korišteni su podaci dostupni na Kaggle platformi, konkretno skup podataka dostupan na [https://www.kaggle.com/datasets/chaunguynnghunh/sepsis](https://www.kaggle.com/datasets/chaunguynnghunh/sepsis), za treniranje modela logističke regresije. Cilj je omogućiti efikasno predviđanje sepse na temelju dostupnih kliničkih informacija.
 
 ## Struktura Repozitorija
 
