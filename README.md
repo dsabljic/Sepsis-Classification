@@ -74,8 +74,8 @@ Aplikacija će se pokrenuti na http://localhost:8000/.
 
 ![image](https://github.com/dsabljic/Sepsis-Classification/assets/83828394/779abe7a-870e-4a0f-a280-3b390499d442)
 
-* *Confidence* označava vjerojatnost da će dani pacijent razviti sepsu
-* 
+\* *Confidence* označava vjerojatnost da će dani pacijent razviti sepsu
+ 
 // **TODO**
 
 - Dodat JS da uneseni podaci ostanu vidljivi nakon prikazivanja rezultata
