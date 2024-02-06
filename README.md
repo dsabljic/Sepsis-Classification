@@ -1,5 +1,7 @@
 # Klasifikacija sepse
 
+https://dsabljic-sepsis-classification.onrender.com/
+
 ## Opis
 
 Projekt implementira rješenje koje predviđa hoće li pacijent razviti sepsu. Korišteni su podaci dostupni na Kaggle platformi, konkretno skup podataka dostupan na [https://www.kaggle.com/datasets/chaunguynnghunh/sepsis](https://www.kaggle.com/datasets/chaunguynnghunh/sepsis), za treniranje i selekciju odgovarajućeg modela. Cilj je omogućiti efikasno predviđanje sepse na temelju dostupnih kliničkih informacija.
