@@ -63,9 +63,10 @@ pip3 install -r all_requirements.txt
 ## Pokretanje aplikacije sa Dockera
 
 ```bash
-docker pull dsabljic24/sepsis-prediction-app
-docker run -d -p 8000:8000 dsabljic24/sepsis-prediction-app
+docker pull dsabljic24/sepsis-prediction
+docker run -d -p 8000:8000 dsabljic24/sepsis-prediction
 ```
+
 Aplikacija će se pokrenuti na http://localhost:8000/.
 
 ## Prikaz rada aplikacije
