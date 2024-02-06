@@ -60,7 +60,7 @@ pip3 install -r all_requirements.txt
 2. Pokrenite aplikaciju koristeći `uvicorn app:app --reload --host 0.0.0.0 --port 8000`.
 3. Otvorite prikazanu URL adresu u web pregledniku i unesite potrebne podatke za predviđanje sepse.
 
-## Pokretanje aplikacije sa Dockera (https://hub.docker.com/r/dsabljic24/sepsis-prediction)
+## [Docker image](https://hub.docker.com/r/dsabljic24/sepsis-prediction)
 
 ```bash
 docker pull dsabljic24/sepsis-prediction
