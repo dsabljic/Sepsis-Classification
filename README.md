@@ -8,10 +8,6 @@ Projekt implementira rješenje koje predviđa hoće li pacijent razviti sepsu. K
 
 ## Struktura Repozitorija
 
-Repozitorij sadrži sljedeće datoteke i direktorije:
-
-- `LICENSE`: Licenca projekta.
-- `README.md`: Ovaj dokument.
 - `Sepsis Classification.ipynb`: Jupyter bilježnica s analizom podataka, modeliranjem, i spremanjem modela.
 - `all_requirements.txt`: Popis svih potrebnih Python paketa za analizu podataka i rad aplikacije.
 - `app/`: Direktorij aplikacije koji sadrži:
