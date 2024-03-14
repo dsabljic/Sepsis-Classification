@@ -8,19 +8,19 @@ Projekt implementira rješenje koje predviđa hoće li pacijent razviti sepsu. K
 
 ## Struktura Repozitorija
 
-- `Sepsis Classification.ipynb`: Jupyter bilježnica s analizom podataka, modeliranjem, i spremanjem modela.
-- `all_requirements.txt`: Popis svih potrebnih Python paketa za analizu podataka i rad aplikacije.
-- `app/`: Direktorij aplikacije koji sadrži:
-  - `Dockerfile`: Konfiguracijska datoteka za Docker.
-  - `app.py`: Python skripta koja implementira FastAPI aplikaciju za predviđanje sepsije.
-  - `models/`: Direktorij s modelima (`lr_model.joblib`, `numerical_imputer.joblib`, `scaler.joblib`) za pripremu podataka i predviđanje.
-  - `requirements.txt`: Popis Python paketa potrebnih za rad FastAPI aplikacije (primarno za *dokerizaciju*, svi moduli potrebni za rad lokalno su dostupni u `all_requirements.txt`).
-  - `templates/`: Direktorij s HTML predloškom (`index.html`) za unos i prikaz rezultata.
-- `data/`: Direktorij s podacima:
-  - `test.csv`: Testni skup podataka.
-  - `train.csv`: Trenirajući skup podataka.
+- `Sepsis Classification.ipynb`: Jupyter notebook s analizom podataka, modeliranjem, i spremanjem modela
+- `all_requirements.txt`: Popis svih potrebnih Python modula za analizu podataka i rad aplikacije
+- `app/`:
+  - `Dockerfile`: Konfiguracijska datoteka za Docker
+  - `app.py`: Python skripta koja implementira FastAPI aplikaciju za predviđanje sepse
+  - `models/`: Direktorij s modelima (`lr_model.joblib`, `numerical_imputer.joblib`, `scaler.joblib`) za pripremu podataka i predviđanje
+  - `requirements.txt`: Popis Python paketa potrebnih za rad FastAPI aplikacije (primarno za *dokerizaciju*, svi moduli potrebni za rad lokalno su dostupni u `all_requirements.txt`)
+  - `templates/`: Direktorij s HTML predloškom (`index.html`) za unos i prikaz rezultata
+- `data/`:
+  - `test.csv`: Testni skup podataka
+  - `train.csv`: Skup za treniranje
 
-## Priprema za lokalnu upotrebu
+## Lokalna upotreba
 
 ### Kloniranje repozitorija
 
