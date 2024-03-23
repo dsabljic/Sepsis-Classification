@@ -1,6 +1,6 @@
 # Klasifikacija sepse
 
-https://dsabljic-sepsis-classification.onrender.com/ (free tier deployment ~1 min wait time)
+https://dsabljic-sepsis-classification.onrender.com/
 
 ## Opis
 
