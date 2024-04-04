@@ -1,6 +1,6 @@
 # Klasifikacija sepse
 
-https://dsabljic-sepsis-classification.onrender.com/
+https://dsabljic-sepsis-classification.onrender.com/ (Render free tier, cekanje od ~50s)
 
 ## Opis
 
