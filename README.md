@@ -24,8 +24,6 @@ Projekt implementira rješenje koje predviđa hoće li pacijent razviti sepsu. K
 
 ### Kloniranje repozitorija
 
-Prvo, klonirajte repozitorij na svoje lokalno računalo koristeći Git. Otvorite terminal i pokrenite sljedeću naredbu:
-
 ```bash
 git clone https://github.com/dsabljic/Sepsis-Classification.git
 cd Sepsis-Classification
@@ -49,7 +47,7 @@ pip3 install -r all_requirements.txt
 
 ### Analiza podataka i modeliranje
 
-1. Otvorite `Sepsis Classification.ipynb` u Jupyter Notebook-u za detaljan pregled procesa analize i modeliranja.
+1. `Sepsis Classification.ipynb` je Jupyter Notebook koji sadrži detaljan pregled procesa analize i modeliranja.
 2. Modeli su spremljeni unutar `app/models` direktorija i spremni su za korištenje u FastAPI aplikaciji.
 
 ### Pokretanje FastAPI aplikacije
